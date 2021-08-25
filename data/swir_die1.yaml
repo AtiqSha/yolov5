@@ -1,4 +1,4 @@
-path: ../datasets/swir_die1_250821  # dataset root dir
+path: datasets/swir_die1_250821  # dataset root dir
 train: images/train  # train images (relative to 'path') 128 images
 val: images/train  # val images (relative to 'path') 128 images
 test:  # test images (optional)
